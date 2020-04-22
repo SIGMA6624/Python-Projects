@@ -1,2 +1,2 @@
 # Python-Projects
-Code for my Python Projects in my free time.
+Code for my Python Projects borne out of interest in automating boring office tasks.
